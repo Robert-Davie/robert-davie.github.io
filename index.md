@@ -1,4 +1,4 @@
-[Home](/index.md)    [About](/about.md)    [Projects](/project.md)    [Contact](/contact.md)
+[About](/about_me.md)    [Projects](/projects.md)    [Contact](/contact_me.md)
 # Homepage
 
 <image src="/avatar.jpg" width="250" height="340">
